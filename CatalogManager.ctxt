@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CatalogManager
+comment1.params=product
+comment1.target=void\ addProduct(Product)
+comment2.params=name
+comment2.target=void\ removeProduct(java.lang.String)
+comment3.params=
+comment3.target=void\ showProducts()
+comment4.params=
+comment4.target=java.util.ArrayList\ getCatalog()
+numComments=5
